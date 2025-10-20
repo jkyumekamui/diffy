@@ -27,3 +27,6 @@ diffy [-v] [-c] <Path1> <Path2> [-o <Path_Out>] [-NoClobber]
 
 ## 課題・仕様
 - 出力ファイルがBOM付きUTF8になる。（PowerShellの仕様）
+
+## その他
+　CC0なので改変はご自由にどうぞ。もしなにかあればIssueかTwitter: @ymm_uttまでお願いします。
